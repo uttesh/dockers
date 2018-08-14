@@ -1,0 +1,9 @@
+<user-mapping>
+	<authorize username="admin" password="rspl1234$">
+		<connection name="Suriya_local">
+			<protocol>rdp</protocol>
+			<param name="hostname">192.168.1.164</param>
+			<param name="port">3389</param>
+		</connection>
+	</authorize>
+</user-mapping>
